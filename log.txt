@@ -1,0 +1,41 @@
+Car.printAllCar([org.example.Car@2e0fa5d3, org.example.Car@5010be6, org.example.Car@685f4c2e, org.example.Car@7daf6ecc, org.example.Car@2e5d6d97, org.example.Car@238e0d81, org.example.Car@31221be2, org.example.Car@377dca04, org.example.Car@728938a9, org.example.Car@21b8d17c]) Thu Apr 04 16:25:31 CEST 2024
+carRepo.getCarLessThan20Years([org.example.Car@5010be6, org.example.Car@7daf6ecc, org.example.Car@238e0d81, org.example.Car@31221be2, org.example.Car@377dca04, org.example.Car@728938a9, org.example.Car@21b8d17c]) Thu Apr 04 16:25:31 CEST 2024
+Voiture enregistrée avec succès org.example.Car@544fa968 Thu Apr 04 16:27:05 CEST 2024
+Menu.CreateCar() Thu Apr 04 16:27:05 CEST 2024
+Car.printAllCar([org.example.Car@2e0fa5d3, org.example.Car@5010be6, org.example.Car@685f4c2e, org.example.Car@7daf6ecc, org.example.Car@2e5d6d97, org.example.Car@238e0d81, org.example.Car@31221be2, org.example.Car@377dca04, org.example.Car@728938a9, org.example.Car@21b8d17c]) Thu Apr 04 16:55:13 CEST 2024
+carRepo.getCarLessThan20Years([org.example.Car@5010be6, org.example.Car@7daf6ecc, org.example.Car@238e0d81, org.example.Car@31221be2, org.example.Car@377dca04, org.example.Car@728938a9, org.example.Car@21b8d17c]) Thu Apr 04 16:55:13 CEST 2024
+carRepo.addCar(org.example.Car@5010be6) Thu Apr 04 16:55:13 CEST 2024
+Voiture enregistrée avec succès org.example.Car@5010be6 Thu Apr 04 16:55:14 CEST 2024
+carRepo.addCar(org.example.Car@7daf6ecc) Thu Apr 04 16:55:14 CEST 2024
+Voiture enregistrée avec succès org.example.Car@7daf6ecc Thu Apr 04 16:55:14 CEST 2024
+carRepo.addCar(org.example.Car@238e0d81) Thu Apr 04 16:55:14 CEST 2024
+Voiture enregistrée avec succès org.example.Car@238e0d81 Thu Apr 04 16:55:14 CEST 2024
+carRepo.addCar(org.example.Car@31221be2) Thu Apr 04 16:55:14 CEST 2024
+Voiture enregistrée avec succès org.example.Car@31221be2 Thu Apr 04 16:55:14 CEST 2024
+carRepo.addCar(org.example.Car@377dca04) Thu Apr 04 16:55:14 CEST 2024
+Voiture enregistrée avec succès org.example.Car@377dca04 Thu Apr 04 16:55:14 CEST 2024
+carRepo.addCar(org.example.Car@728938a9) Thu Apr 04 16:55:14 CEST 2024
+Voiture enregistrée avec succès org.example.Car@728938a9 Thu Apr 04 16:55:14 CEST 2024
+carRepo.addCar(org.example.Car@21b8d17c) Thu Apr 04 16:55:14 CEST 2024
+Voiture enregistrée avec succès org.example.Car@21b8d17c Thu Apr 04 16:55:14 CEST 2024
+Car.printAllCar([org.example.Car@2e0fa5d3, org.example.Car@5010be6, org.example.Car@685f4c2e, org.example.Car@7daf6ecc, org.example.Car@2e5d6d97, org.example.Car@238e0d81, org.example.Car@31221be2, org.example.Car@377dca04, org.example.Car@728938a9, org.example.Car@21b8d17c]) Thu Apr 04 16:56:34 CEST 2024
+carRepo.getCarLessThan20Years([org.example.Car@5010be6, org.example.Car@7daf6ecc, org.example.Car@238e0d81, org.example.Car@31221be2, org.example.Car@377dca04, org.example.Car@728938a9, org.example.Car@21b8d17c]) Thu Apr 04 16:56:34 CEST 2024
+Voiture enregistrée avec succès org.example.Car@544fa968 Thu Apr 04 16:57:28 CEST 2024
+Menu.CreateCar() Thu Apr 04 16:57:28 CEST 2024
+carRepo.getAllCars() Thu Apr 04 16:57:31 CEST 2024
+Menu.updateCar() Thu Apr 04 16:58:33 CEST 2024
+carRepo.getAllCars() Thu Apr 04 16:58:44 CEST 2024
+carRepo.getAllCars() Thu Apr 04 16:58:49 CEST 2024
+Car.printAllCar([org.example.Car@2e0fa5d3, org.example.Car@5010be6, org.example.Car@685f4c2e, org.example.Car@7daf6ecc, org.example.Car@2e5d6d97, org.example.Car@238e0d81, org.example.Car@31221be2, org.example.Car@377dca04, org.example.Car@728938a9, org.example.Car@21b8d17c]) Thu Apr 04 16:59:33 CEST 2024
+carRepo.getCarLessThan20Years([org.example.Car@5010be6, org.example.Car@7daf6ecc, org.example.Car@238e0d81, org.example.Car@31221be2, org.example.Car@377dca04, org.example.Car@728938a9, org.example.Car@21b8d17c]) Thu Apr 04 16:59:33 CEST 2024
+Voiture enregistrée avec succès org.example.Car@3bd82cf5 Thu Apr 04 16:59:58 CEST 2024
+Menu.CreateCar() Thu Apr 04 16:59:58 CEST 2024
+carRepo.getAllCars() Thu Apr 04 17:00:00 CEST 2024
+carRepo.getAllCars() Thu Apr 04 17:00:16 CEST 2024
+carRepo.getCarWithAge([org.example.Car@4c309d4d, org.example.Car@38102d01] , 0) Thu Apr 04 17:00:25 CEST 2024
+carRepo.getAllCars() Thu Apr 04 17:00:31 CEST 2024
+carRepo.getCarWithAge([org.example.Car@762ef0ea, org.example.Car@31f9b85e, org.example.Car@424e1977, org.example.Car@10d68fcd, org.example.Car@117e949d, org.example.Car@6db9f5a4, org.example.Car@5f8edcc5] , 0 , 150000) Thu Apr 04 17:00:43 CEST 2024
+Car.printAllCar([org.example.Car@2e0fa5d3, org.example.Car@5010be6, org.example.Car@685f4c2e, org.example.Car@7daf6ecc, org.example.Car@2e5d6d97, org.example.Car@238e0d81, org.example.Car@31221be2, org.example.Car@377dca04, org.example.Car@728938a9, org.example.Car@21b8d17c]) Thu Apr 04 17:01:12 CEST 2024
+carRepo.getCarLessThan20Years([org.example.Car@5010be6, org.example.Car@7daf6ecc, org.example.Car@238e0d81, org.example.Car@31221be2, org.example.Car@377dca04, org.example.Car@728938a9, org.example.Car@21b8d17c]) Thu Apr 04 17:01:12 CEST 2024
+carRepo.getAllCars() Thu Apr 04 17:01:15 CEST 2024
+carRepo.getCarWithAge([org.example.Car@f79e, org.example.Car@7ee8290b, org.example.Car@1f59a598, org.example.Car@1e178745, org.example.Car@192c3f1e, org.example.Car@26b3fd41, org.example.Car@7494f96a] , 0 , 150000) Thu Apr 04 17:01:22 CEST 2024
